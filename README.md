@@ -1,3 +1,3 @@
-# Social App Front-End and Bakc-End
+# Social App Front-End and Back-End
 
 
